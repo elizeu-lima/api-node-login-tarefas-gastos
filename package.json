@@ -1,0 +1,21 @@
+{
+  "name": "api-node-login-tarefas-gastos",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/elizeu-lima/api-node-login-tarefas-gastos#readme",
+  "bugs": {
+    "url": "https://github.com/elizeu-lima/api-node-login-tarefas-gastos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizeu-lima/api-node-login-tarefas-gastos.git"
+  },
+  "license": "ISC",
+  "author": "Elizeu",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
